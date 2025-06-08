@@ -1,7 +1,0 @@
-version: 0.2
-phases:
-  build:
-    commands:
-      - echo "¡Comenzando la fase de compilación simulada para Jira!"
-      - echo "Este es un repositorio de planificación, no se requiere una compilación real."
-      - echo "La etapa de compilación se ha completado exitosamente con solo mensajes."
