@@ -1,0 +1,7 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - echo "¡Comenzando la simulación de compilación para Jira!"
+      - echo "Este es un proyecto de planificación, no hay código para compilar."
+      - echo "La etapa de compilación ha sido exitosa."
